@@ -203,7 +203,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 50%;
+  width: 61%;
   height: 15vh;
   border: 1.5px solid var(--body-color);
   border-radius: 5px;
@@ -865,7 +865,7 @@ body {
     background-color: var(--accent-color);
   }
 
-  .fas.fa-times {
+  .fa-times {
     display: none;
     color: var(--primary-color);
     margin: 1.5rem;
@@ -904,7 +904,7 @@ body {
   }
 
   .subtext {
-    width: 61% !important;
+    width: 100%;
     margin-top: 10px;
     text-align: center;
   }
