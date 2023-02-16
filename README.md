@@ -1,4 +1,4 @@
-# Purple-Coders---HTML-CSS-JavaScript-capstone-project
+
 <a name="readme-top"></a>
 
 <!--
@@ -28,10 +28,10 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
  
-  <img src="./images/projectScreeshot.png" alt="logo" width="80%"  height="400px"/>
+  <img src="./images/purpleLogoBg.png" alt="logo" width="70%"  height="400px"/>
   <br/>
 
-  <h3><b>Capstone Project(1): Purple-Coders </b></h3>
+  <h3><b>Purple-Coders Event </b></h3>
 
 </div>
 
@@ -161,6 +161,11 @@ Share ideas on how to improve this project.
 
 
 
+
+I would like to thank  [Cindy Shin in Behance](https://www.behance.net/adagio07) on an amazing design.
+
+The design is [MIT] licensed(https://creativecommons.org/licenses/by-nc/4.0/) by Behance and Cindy Shin.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 # Microverse documentaion, Coding partner and the code reviewers
 
 
