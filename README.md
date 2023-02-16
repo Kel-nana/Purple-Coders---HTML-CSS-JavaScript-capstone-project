@@ -28,7 +28,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
  
-  <img src="./images/projectScreeshot.png" alt="logo" width="140"  height="auto" border-radius ="10px"/>
+  <img src="./images/projectScreeshot.png" alt="logo" width="80%"  height="400px"/>
   <br/>
 
   <h3><b>Capstone Project(1): Purple-Coders </b></h3>
