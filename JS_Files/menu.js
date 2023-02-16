@@ -5,6 +5,7 @@ const closeMenu = document.getElementById('navItems');
 
 showMenu.onclick = function showMenu() {
   navLinks.style.width = '170vw';
+  hideMenu.style.display = 'block';
 };
 
 hideMenu.onclick = function hideMenu() {

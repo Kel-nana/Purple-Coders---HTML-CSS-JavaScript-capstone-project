@@ -866,7 +866,7 @@ body {
   }
 
   .fas.fa-times {
-    display: block;
+    display: none;
     color: var(--primary-color);
     margin: 1.5rem;
     position: absolute;
