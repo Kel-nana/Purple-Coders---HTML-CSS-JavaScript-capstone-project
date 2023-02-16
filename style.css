@@ -1,9 +1,7 @@
 /* Typography */
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
 
-
-
-/* Variables */
+/* ===variables======== */
 :root {
   --primary-color: #272a31;
   --secondary-color: #d3d3d3;
@@ -13,7 +11,7 @@
   --heading-font: "Lato";
 }
 
-/* Reset Styles */
+/* =======Reset Styles========== */
 *,
 *::after,
 *::before {
@@ -27,10 +25,10 @@ html {
 }
 
 body {
-  font-family: "Lato",Arial ,sans-serif;
+  font-family: "Lato", Arial, sans-serif;
 }
 
-/* Header/Navigation Bar */
+/* =========HEADER================= */
 .page-info {
   display: flex;
   justify-content: flex-end;
@@ -85,8 +83,8 @@ body {
   width: 120px;
   position: relative;
   border: 1px solid rgba(187, 74, 74, 0.658);
-  border-radius: 10PX;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
   margin-top: 0.3rem;
   margin-bottom: 0.1rem;
   left: 2rem;
@@ -206,7 +204,7 @@ body {
   justify-content: center;
   align-items: center;
   width: 50%;
-  height: 15.vh;
+  height: 15vh;
   border: 1.5px solid var(--body-color);
   border-radius: 5px;
   background: #d3d3d37a;
@@ -323,7 +321,7 @@ body {
   display: none;
 }
 
-/* Featured Acts */
+/* =============FEATURED SECTION========== */
 .featured-acts {
   max-width: 100rem;
   margin: 0 auto;
@@ -421,7 +419,7 @@ body {
   display: none;
 }
 
-/* About Page */
+/* ========ABOUT PAGE============ */
 .about-page {
   background: url(./images/homeBgDesktop.png);
   background-position: center;
@@ -462,7 +460,6 @@ body {
   font-size: 4.5rem;
   color: var(--accent-color);
   text-align: center;
-  
 }
 
 .about-subtext {
@@ -654,7 +651,7 @@ body {
   margin: 1.5rem 0 1.5rem 0;
 }
 
-/* Footer Section */
+/* ===========FOOTER SECTION============ */
 .partner-section {
   background: var(--primary-color);
 }
@@ -723,8 +720,8 @@ body {
   width: 120px;
   position: relative;
   border: 1px solid rgba(187, 74, 74, 0.658);
-  border-radius: 10PX;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
   margin-top: 0.3rem;
   margin-bottom: 0.1rem;
   left: 2rem;
@@ -740,7 +737,7 @@ body {
   font-size: 1.1rem;
 }
 
-/* About Footer Section */
+/* ===========ABOUT FOOTER SECTION======= */
 .about-partner-section {
   background: var(--primary-color);
   display: none;
@@ -801,7 +798,7 @@ body {
 }
 
 @media screen and (max-width: 768px) {
- /* ===============HEADER==================== */
+  /* ===============HEADER==================== */
   .page-info {
     display: none;
   }
@@ -884,7 +881,7 @@ body {
     cursor: pointer;
   }
 
-  /*========LANDING PAGE========== */
+  /* ========LANDING PAGE========== */
   .landing-page {
     padding-top: 7rem;
   }
@@ -921,7 +918,7 @@ body {
     margin-top: -1rem;
   }
 
- /* ==============SCHEDULE SECTION===== */
+  /* ==============SCHEDULE SECTION===== */
   .schedule-section {
     padding-left: 0.2rem;
     padding-right: 0.2rem;
@@ -1028,7 +1025,7 @@ body {
     display: none;
   }
 
- /* ============AOUT SECTION========== */
+  /* ============AOUT SECTION========== */
   .about-page {
     padding-top: 4rem;
   }
@@ -1207,4 +1204,3 @@ body {
     color: var(--primary-color);
   }
 }
-
