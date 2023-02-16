@@ -143,7 +143,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://twitter.com/home).
+Feel free to check the [issues page](https://github.com/Kel-nana/Purple-Coders---HTML-CSS-JavaScript-capstone-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
