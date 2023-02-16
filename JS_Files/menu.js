@@ -4,7 +4,7 @@ const hideMenu = document.getElementById('closeIcon');
 const closeMenu = document.getElementById('navItems');
 
 showMenu.onclick = function showMenu() {
-  navLinks.style.width = '180vw';
+  navLinks.style.width = '170vw';
 };
 
 hideMenu.onclick = function hideMenu() {
