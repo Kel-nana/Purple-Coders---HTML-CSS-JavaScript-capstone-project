@@ -865,7 +865,7 @@ body {
     background-color: var(--accent-color);
   }
 
-  .fas.fa-times {
+  .fa-times {
     display: none;
     color: var(--primary-color);
     margin: 1.5rem;
