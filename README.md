@@ -160,15 +160,10 @@ Share ideas on how to improve this project.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-
-
 I would like to thank  [Cindy Shin in Behance](https://www.behance.net/adagio07) on an amazing design.
 
 The design is [MIT] licensed(https://creativecommons.org/licenses/by-nc/4.0/) by Behance and Cindy Shin.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-# Microverse documentaion, Coding partner and the code reviewers
-
-
+<p align="right">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
